@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  min-height: 80vh;
+}
+
+.general-btn {
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  color: #ffff;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  font:inherit
+}
+.bg-orange {
+  background-color: #f26522 !important;
+}
